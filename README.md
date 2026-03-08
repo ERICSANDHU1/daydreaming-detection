@@ -92,7 +92,7 @@ The system evaluates several facial attributes:
 - **Lip state**
 
 These features are processed using a **weighted rule‑based scoring system**.
-
+---
 ---
 
 # 📂 Project Structure
@@ -145,6 +145,9 @@ daydreaming-detection/
 │   └── result.png
 │
 └── README.md                         # Project documentation
+
+---
+---
 
 📊 Prediction Categories
 
